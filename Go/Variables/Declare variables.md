@@ -12,3 +12,13 @@ Visibility
 - lowercase first letter for package scope
 - uppercase first letter to export 
 - no private scope
+
+Naming Convetions
+- Pascal or camelCase
+- Capitalize acronyms(HTTP,URL)
+As short as reasonable
+- longer names for longer lives
+
+Type Conversions
+- destinationType(Variable)
+- use strconv pakage for strings 
